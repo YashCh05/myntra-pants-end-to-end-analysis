@@ -1,7 +1,7 @@
 # <img width="303" height="166" alt="myntra_logo-removebg-preview" src="https://github.com/user-attachments/assets/aafa7117-2641-403e-90cb-0a56787f5049" />
 Myntra Pants End-to-End Data Analysis Project
 
-## 📌 Project Overview
+## 📊 Project Overview
 This project presents an **end-to-end data analysis** of Myntra pants product data using **Python, SQL, and Power BI**.  
 The objective is to analyze pricing, discounts, ratings, and brand positioning to uncover **business insights** that can support merchandising and pricing decisions.
 
